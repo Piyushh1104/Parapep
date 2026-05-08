@@ -154,8 +154,8 @@ http://crdd.osdd.net/raghava/parapep/
 ## Contact
 
 Prof. Gajendra P. S. Raghava  
-CSIR-Institute of Microbial Technology  
-Chandigarh, India
+Indraprastha Institute of Information Technology 
+Delhi
 
 Email: raghava@iiitd.ac.in
 
