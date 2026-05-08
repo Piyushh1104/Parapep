@@ -18,6 +18,8 @@ Database, 2014, bau051
 
 DOI: https://doi.org/10.1093/database/bau051
 
+https://doi.org/10.5281/zenodo.20086726
+
 ---
 
 ## Background
